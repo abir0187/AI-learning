@@ -55,6 +55,9 @@ X = np.array([[-3.79993965,  4.92713237],
               [ 4.65509449,  7.55151564],
               [-2.96653274,  5.08738576]])
 
+print(X)
+
+
 # Initialize clustering algorithm named "kmeans" with "2 clusters".
 kmeans = KMeans(n_clusters=2).fit(X)
 
