@@ -1,7 +1,6 @@
 from sklearn.linear_model import LinearRegression
 
 
-
 x=[[4], [8], [12], [16], [18]]
 y=[[4], [8], [10], [12], [15]]
 
