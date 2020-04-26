@@ -15,11 +15,8 @@
 # Load sklearn functionality
 from sklearn.linear_model import LinearRegression
 from sklearn import datasets
-from sklearn.model_selection import train_test_split
 
 import numpy as np
-import pandas as pd
-import scipy.stats as stats
 import matplotlib.pyplot as plt
 import sklearn
 
